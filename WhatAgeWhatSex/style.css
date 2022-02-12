@@ -1,0 +1,16 @@
+body {
+  background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+
+.container {
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  padding: 20px 40px;
+  border-radius: 20px;
+}
