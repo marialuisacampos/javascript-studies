@@ -1,2 +1,2 @@
 # javascript-studies
-Some studies that i've made while I'm learning JavaScript.
+Some studies i've made while I was learning JavaScript.
